@@ -15,7 +15,6 @@ Trabalho para transformar uma presença digital num ponto de conversão: mensage
 
 | Projecto | Área | Ver online |
 | --- | --- | --- |
-| Modular Construção | Construção modular | [modularconstrucao.pt](https://www.modularconstrucao.pt) |
 | EletroSantos Pro | Serviços eléctricos | [eletrosantos-pro.pt](https://www.eletrosantos-pro.pt) |
 | Latina Grill | Restauração | [latinagrill.pt](https://www.latinagrill.pt) |
 | PC Work Vertical | Trabalhos em altura | [pcworkvertical.pt](https://pcworkvertical.pt) |
