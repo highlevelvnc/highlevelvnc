@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, sou o Vinicius Oliveira 👋
 
-<!--
-**highlevelvnc/highlevelvnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fundador da [High Level Marketing](https://highlevelmkt.com), onde crio sites e landing pages premium para negócios de serviços em Portugal.
 
-Here are some ideas to get you started:
+Trabalho para transformar uma presença digital num ponto de conversão: mensagem clara, design cuidado, experiência rápida e contactos directos por WhatsApp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## O que faço
+
+- Landing pages e sites institucionais com foco em conversão
+- Next.js, TypeScript, Tailwind CSS e GSAP
+- SEO técnico e estrutura de conteúdo para negócio local
+- Integração de leads, propostas e automações de marketing
+
+## Projectos em destaque
+
+| Projecto | Área | Ver online |
+| --- | --- | --- |
+| Modular Construção | Construção modular | [modularconstrucao.pt](https://www.modularconstrucao.pt) |
+| EletroSantos Pro | Serviços eléctricos | [eletrosantos-pro.pt](https://www.eletrosantos-pro.pt) |
+| Latina Grill | Restauração | [latinagrill.pt](https://www.latinagrill.pt) |
+| PC Work Vertical | Trabalhos em altura | [pcworkvertical.pt](https://pcworkvertical.pt) |
+
+## Stack habitual
+
+`Next.js` · `TypeScript` · `React` · `Tailwind CSS` · `GSAP` · `Vercel`
+
+## Vamos falar
+
+- Website: [highlevelmkt.com](https://highlevelmkt.com)
+- Instagram: [@mkthighlevel](https://instagram.com/mkthighlevel)
+
+> Este perfil mostra a minha actividade e o meu trabalho. Os repositórios de clientes mantêm-se privados.
